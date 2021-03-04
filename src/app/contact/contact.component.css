@@ -1,0 +1,28 @@
+.heading {
+  margin-top: 20px;
+}
+
+#img {
+  margin: 20px;
+}
+
+.para {
+  margin: 35px;
+  color: white;
+}
+
+.card {
+  background-color: rgb(108, 83, 218);
+}
+
+.card hr {
+  width: 50%;
+  margin: auto;
+  color: white;
+}
+
+.card h4 {
+  text-align: center;
+  color: white;
+  margin-top: 35px;
+}
